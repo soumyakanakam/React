@@ -1,0 +1,10 @@
+.msg{
+  color: pink;
+  text-align: center;
+}
+.form{
+  padding: 20px;
+  margin: auto;
+  color: white;
+  background-color: aquamarine;
+}
